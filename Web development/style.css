@@ -1,0 +1,17 @@
+
+.three{
+    border:1px solid red;
+    border-radius: 30px;
+    width: 30%;
+    margin: 20px;
+    display:inline-block;
+
+
+}
+
+h4{
+    text-align:center;
+}
+p{
+    text-align: justify;
+}
