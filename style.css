@@ -19,8 +19,7 @@ h1{
 }
 .top-banner{
     border:20 px solid red;
-    background-image: url("images/top-banner.png");
-    background-repeat: no-repeat;
+   
 }
 
 section{
@@ -72,3 +71,6 @@ h2{
 footer{
     text-align: center;
 }
+#png{
+    width:400px;
+    height:500px;
